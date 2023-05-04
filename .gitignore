@@ -12,3 +12,7 @@ density.tif
 sand.tif
 field_centroids.geojson
 field_data.geojson
+spatial_data
+field_polygons.geojson
+fields_updated.geojson
+resampled
