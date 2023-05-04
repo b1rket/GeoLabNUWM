@@ -16,3 +16,4 @@ spatial_data
 field_polygons.geojson
 fields_updated.geojson
 resampled
+node_modules
