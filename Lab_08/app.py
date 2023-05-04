@@ -17,7 +17,6 @@ def get_json(filename):
     except FileNotFoundError:
         return jsonify({'error': 'File not found'})
     
-# Source: [konopl1tsky1], [https://github.com/konopl1tsky1/geo_data_analisis/blob/099619691a455d4ec77cf16b336de7b008de8b81/lab_08/app.py#L20-L25]
 
 @app.route('/field/<string:field_name>', methods=['GET'])
 def get_field(field_name):
