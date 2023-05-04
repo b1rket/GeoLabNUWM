@@ -7,3 +7,8 @@ polygonBira.geojson
 soil.tif
 soil.jpg.aux.xml
 soil.jpg
+clay.tif
+density.tif
+sand.tif
+field_centroids.geojson
+field_data.geojson
